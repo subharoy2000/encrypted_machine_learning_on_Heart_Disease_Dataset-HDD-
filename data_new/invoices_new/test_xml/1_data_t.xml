@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root>
+<row FIELD1="0" age="44" sex="1" cp="2" trestbps="130" chol="233" fbs="0" restecg="1" thalach="179" exang="1" oldpeak="0.4" slope="2" ca="0" thal="2" target="1"></row>
+<row FIELD1="1" age="58" sex="0" cp="1" trestbps="136" chol="319" fbs="1" restecg="0" thalach="152" exang="0" oldpeak="0.0" slope="2" ca="2" thal="2" target="0"></row>
+<row FIELD1="2" age="63" sex="1" cp="0" trestbps="140" chol="187" fbs="0" restecg="0" thalach="144" exang="1" oldpeak="4.0" slope="2" ca="2" thal="3" target="0"></row>
+<row FIELD1="3" age="58" sex="1" cp="2" trestbps="140" chol="211" fbs="1" restecg="0" thalach="165" exang="0" oldpeak="0.0" slope="2" ca="0" thal="2" target="1"></row>
+<row FIELD1="4" age="61" sex="1" cp="0" trestbps="120" chol="260" fbs="0" restecg="1" thalach="140" exang="1" oldpeak="3.6" slope="1" ca="1" thal="3" target="0"></row>
+<row FIELD1="5" age="53" sex="1" cp="0" trestbps="140" chol="203" fbs="1" restecg="0" thalach="155" exang="1" oldpeak="3.1" slope="0" ca="0" thal="3" target="0"></row>
+<row FIELD1="6" age="58" sex="1" cp="0" trestbps="125" chol="300" fbs="0" restecg="0" thalach="171" exang="0" oldpeak="0.0" slope="2" ca="2" thal="3" target="0"></row>
+<row FIELD1="7" age="63" sex="0" cp="0" trestbps="150" chol="407" fbs="0" restecg="0" thalach="154" exang="0" oldpeak="4.0" slope="1" ca="3" thal="3" target="0"></row>
+<row FIELD1="8" age="57" sex="1" cp="0" trestbps="130" chol="131" fbs="0" restecg="1" thalach="115" exang="1" oldpeak="1.2" slope="1" ca="1" thal="3" target="0"></row>
+<row FIELD1="9" age="52" sex="1" cp="0" trestbps="112" chol="230" fbs="0" restecg="1" thalach="160" exang="0" oldpeak="0.0" slope="2" ca="1" thal="2" target="0"></row>
+<row FIELD1="10" age="57" sex="1" cp="2" trestbps="128" chol="229" fbs="0" restecg="0" thalach="150" exang="0" oldpeak="0.4" slope="1" ca="1" thal="3" target="0"></row>
+<row FIELD1="11" age="51" sex="1" cp="0" trestbps="140" chol="298" fbs="0" restecg="1" thalach="122" exang="1" oldpeak="4.2" slope="1" ca="3" thal="3" target="0"></row>
+</root>

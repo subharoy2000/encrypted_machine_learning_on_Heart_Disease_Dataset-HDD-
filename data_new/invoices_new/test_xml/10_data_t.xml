@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root>
+<row FIELD1="108" age="49" sex="1" cp="2" trestbps="120" chol="188" fbs="0" restecg="1" thalach="139" exang="0" oldpeak="2.0" slope="1" ca="3" thal="3" target="0"></row>
+<row FIELD1="109" age="43" sex="1" cp="0" trestbps="115" chol="303" fbs="0" restecg="1" thalach="181" exang="0" oldpeak="1.2" slope="1" ca="0" thal="2" target="1"></row>
+<row FIELD1="110" age="42" sex="1" cp="2" trestbps="120" chol="240" fbs="1" restecg="1" thalach="194" exang="0" oldpeak="0.8" slope="0" ca="0" thal="3" target="1"></row>
+<row FIELD1="111" age="59" sex="0" cp="0" trestbps="174" chol="249" fbs="0" restecg="1" thalach="143" exang="1" oldpeak="0.0" slope="1" ca="0" thal="2" target="0"></row>
+<row FIELD1="112" age="58" sex="1" cp="1" trestbps="125" chol="220" fbs="0" restecg="1" thalach="144" exang="0" oldpeak="0.4" slope="1" ca="4" thal="3" target="1"></row>
+<row FIELD1="113" age="64" sex="1" cp="0" trestbps="145" chol="212" fbs="0" restecg="0" thalach="132" exang="0" oldpeak="2.0" slope="1" ca="2" thal="1" target="0"></row>
+<row FIELD1="114" age="54" sex="1" cp="2" trestbps="150" chol="232" fbs="0" restecg="0" thalach="165" exang="0" oldpeak="1.6" slope="2" ca="0" thal="3" target="1"></row>
+<row FIELD1="115" age="53" sex="1" cp="0" trestbps="140" chol="203" fbs="1" restecg="0" thalach="155" exang="1" oldpeak="3.1" slope="0" ca="0" thal="3" target="0"></row>
+<row FIELD1="116" age="44" sex="0" cp="2" trestbps="118" chol="242" fbs="0" restecg="1" thalach="149" exang="0" oldpeak="0.3" slope="1" ca="1" thal="2" target="1"></row>
+<row FIELD1="117" age="43" sex="1" cp="0" trestbps="120" chol="177" fbs="0" restecg="0" thalach="120" exang="1" oldpeak="2.5" slope="1" ca="0" thal="3" target="0"></row>
+<row FIELD1="118" age="68" sex="1" cp="0" trestbps="144" chol="193" fbs="1" restecg="1" thalach="141" exang="0" oldpeak="3.4" slope="1" ca="2" thal="3" target="0"></row>
+<row FIELD1="119" age="66" sex="0" cp="3" trestbps="150" chol="226" fbs="0" restecg="1" thalach="114" exang="0" oldpeak="2.6" slope="0" ca="0" thal="2" target="1"></row>
+</root>
